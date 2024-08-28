@@ -1,0 +1,36 @@
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208b9d217502ad0e2c31f2ea29100cd2f9b87bb4be1ea2cfbdc2e2436cf8c0bd8b0a",
+      "host": "keybase.io",
+      "kid": "01208b9d217502ad0e2c31f2ea29100cd2f9b87bb4be1ea2cfbdc2e2436cf8c0bd8b0a",
+      "uid": "b9f1867230a73a026f448121a6ccd219",
+      "username": "yulianode"
+    },
+    "merkle_root": {
+      "ctime": 1724824629,
+      "hash": "dae867ccf1e6abd4e0db26d15f69a6c2c5eae5cbe113b320cd44d380337c9507463ca7f1cdd8429d320b5ea287e2308e7ef1593623f57c29fb2b39779d39625b",
+      "hash_meta": "bf4afafb3c0c6b7eea7037dc22e72998d2dc2425881195628cebcc3a9b6c9d23",
+      "seqno": 26049552
+    },
+    "service": {
+      "entropy": "/0m8/jRvJJFUTtByk64ivOfo",
+      "name": "github",
+      "username": "milomama"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.4.0"
+  },
+  "ctime": 1724824702,
+  "expire_in": 504576000,
+  "prev": "599bc8ae7e126c1b9e41a750f9872929283311ca0bfe8aa7ff01cb9b552b31ab",
+  "seqno": 9,
+  "tag": "signature"
+}
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgi50hdQKtDiwx8uopEAzS+bh7tL4eos+9wuJDbPjAvYsKp3BheWxvYWTESpcCCcQgWZvIrn4SbBueQadQ+YcpKSgzEcoL/oqn/wHLm1UrMavEINC9Ry+rjUx0uLsdtY/jxAHAE7R0F6gYafDVrAH0pKdOAgHCo3NpZ8RAXfBbk0v4b2xjjaZKV61kf2Ua9myS7n1xZgE4Tg9oKOBF10AWfdqNLCjE3Vpjbo474rZDJrb+lSW8xGDWxW4TAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAoJfqm/h3gfLzxQYd6KKvWTJ9QQdPhP10J1Q+vHsrY8o3RhZ80CAqd2ZXJzaW9uAQ==
+# look me up
+keybase id yulianode
